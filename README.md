@@ -1,1 +1,1 @@
-# A Simple react-redux app
+# A Simple-React-Redux app
