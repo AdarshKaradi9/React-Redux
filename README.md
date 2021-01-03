@@ -6,7 +6,8 @@
 
 ## Task Description
 1. Component A has two child components Component B and Component C
-2. Component B: 
+2. Component B:
+
   1. Make an input text field
   2. attach a listener of 'change' to the input text field
   3. store the value to the redux store
