@@ -10,4 +10,6 @@
     1. Make an input text field
     2. attach a listener of 'change' to the input text field
     3. store the value to the redux store
-
+3. Component C: 
+    1. Get the value from the redux store
+    2. Show the value inside this component
